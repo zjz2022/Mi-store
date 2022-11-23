@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/mi-web.iml" filepath="$PROJECT_DIR$/.idea/mi-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mi-store.iml" filepath="$PROJECT_DIR$/.idea/mi-store.iml" />
     </modules>
   </component>
 </project>
